@@ -1,0 +1,107 @@
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/jackc/chunkreader/v2 v2.0.1
+github.com/jackc/chunkreader/v2
+# github.com/jackc/pgconn v1.14.0
+github.com/jackc/pgconn
+github.com/jackc/pgconn/internal/ctxwatch
+github.com/jackc/pgconn/stmtcache
+# github.com/jackc/pgio v1.0.0
+github.com/jackc/pgio
+# github.com/jackc/pgpassfile v1.0.0
+github.com/jackc/pgpassfile
+# github.com/jackc/pgproto3/v2 v2.3.2
+github.com/jackc/pgproto3/v2
+# github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a
+github.com/jackc/pgservicefile
+# github.com/jackc/pgtype v1.14.0
+github.com/jackc/pgtype
+# github.com/jackc/pgx/v4 v4.18.1
+## explicit
+github.com/jackc/pgx/v4
+github.com/jackc/pgx/v4/internal/sanitize
+github.com/jackc/pgx/v4/pgxpool
+# github.com/jackc/puddle v1.3.0
+github.com/jackc/puddle
+# github.com/klauspost/compress v1.13.6
+github.com/klauspost/compress
+github.com/klauspost/compress/fse
+github.com/klauspost/compress/huff0
+github.com/klauspost/compress/internal/snapref
+github.com/klauspost/compress/zstd
+github.com/klauspost/compress/zstd/internal/xxhash
+# github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe
+github.com/montanaflynn/stats
+# github.com/xdg-go/pbkdf2 v1.0.0
+github.com/xdg-go/pbkdf2
+# github.com/xdg-go/scram v1.1.2
+github.com/xdg-go/scram
+# github.com/xdg-go/stringprep v1.0.4
+github.com/xdg-go/stringprep
+# github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d
+github.com/youmark/pkcs8
+# go.mongodb.org/mongo-driver v1.12.0
+## explicit
+go.mongodb.org/mongo-driver/bson
+go.mongodb.org/mongo-driver/bson/bsoncodec
+go.mongodb.org/mongo-driver/bson/bsonoptions
+go.mongodb.org/mongo-driver/bson/bsonrw
+go.mongodb.org/mongo-driver/bson/bsontype
+go.mongodb.org/mongo-driver/bson/primitive
+go.mongodb.org/mongo-driver/event
+go.mongodb.org/mongo-driver/internal
+go.mongodb.org/mongo-driver/internal/aws
+go.mongodb.org/mongo-driver/internal/aws/awserr
+go.mongodb.org/mongo-driver/internal/aws/credentials
+go.mongodb.org/mongo-driver/internal/aws/signer/v4
+go.mongodb.org/mongo-driver/internal/credproviders
+go.mongodb.org/mongo-driver/internal/logger
+go.mongodb.org/mongo-driver/internal/randutil
+go.mongodb.org/mongo-driver/internal/randutil/rand
+go.mongodb.org/mongo-driver/internal/uuid
+go.mongodb.org/mongo-driver/mongo
+go.mongodb.org/mongo-driver/mongo/address
+go.mongodb.org/mongo-driver/mongo/description
+go.mongodb.org/mongo-driver/mongo/options
+go.mongodb.org/mongo-driver/mongo/readconcern
+go.mongodb.org/mongo-driver/mongo/readpref
+go.mongodb.org/mongo-driver/mongo/writeconcern
+go.mongodb.org/mongo-driver/tag
+go.mongodb.org/mongo-driver/version
+go.mongodb.org/mongo-driver/x/bsonx/bsoncore
+go.mongodb.org/mongo-driver/x/mongo/driver
+go.mongodb.org/mongo-driver/x/mongo/driver/auth
+go.mongodb.org/mongo-driver/x/mongo/driver/auth/creds
+go.mongodb.org/mongo-driver/x/mongo/driver/auth/internal/gssapi
+go.mongodb.org/mongo-driver/x/mongo/driver/connstring
+go.mongodb.org/mongo-driver/x/mongo/driver/dns
+go.mongodb.org/mongo-driver/x/mongo/driver/mongocrypt
+go.mongodb.org/mongo-driver/x/mongo/driver/mongocrypt/options
+go.mongodb.org/mongo-driver/x/mongo/driver/ocsp
+go.mongodb.org/mongo-driver/x/mongo/driver/operation
+go.mongodb.org/mongo-driver/x/mongo/driver/session
+go.mongodb.org/mongo-driver/x/mongo/driver/topology
+go.mongodb.org/mongo-driver/x/mongo/driver/wiremessage
+# golang.org/x/crypto v0.6.0
+golang.org/x/crypto/ocsp
+golang.org/x/crypto/pbkdf2
+# golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+golang.org/x/sync/errgroup
+golang.org/x/sync/singleflight
+# golang.org/x/text v0.7.0
+golang.org/x/text/cases
+golang.org/x/text/internal
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/secure/bidirule
+golang.org/x/text/secure/precis
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
